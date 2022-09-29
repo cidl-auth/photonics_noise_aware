@@ -15,7 +15,7 @@ The code has been tested on a Ubuntu 22.04 system with Pytorch v1.11.0+cu102 and
 If you use this code in your work please cite the following paper:
 
 <pre>
-@article{dain,
+@article{noise_resilient_photonics,
   title={Noise-resilient and high-speed deep learning with coherent silicon photonics},
   author={G. Mourgias-Alexandris and M. Moralis-Pegios and A. Tsakyridis and S. Simos and G. Dabos and A.Totovic and N. Passalis and M. Kirtas and T. Rutirawut and F. Y. Gardes and A. Tefas and N. Pleros},
   journal={Nature Communications},
